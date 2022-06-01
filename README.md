@@ -1,4 +1,5 @@
-### Hi there 👋
+[![Lixin Wei's GitHub stats](https://github-readme-stats.vercel.app/api?theme=vue&username=lixin-wei&show_icons=true&count_private=true)](https://github.com/lixin-wei)
+
 
 <!--
 **lixin-wei/lixin-wei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
