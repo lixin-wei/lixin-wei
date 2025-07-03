@@ -1,7 +1,7 @@
 [![Lixin Wei's GitHub stats](https://github-readme-stats.vercel.app/api?theme=vue&username=lixin-wei&show_icons=true&count_private=true)](https://github.com/lixin-wei)
 
 ### About Me 🌱
-- 🔭 Expertise: [Dataflow framework](https://en.wikipedia.org/wiki/Dataflow_programming) and its underlying [actor framework](https://en.wikipedia.org/wiki/Actor_model) & async runtime.
+- 🔭 Expertise: Dataflow framework and its underlying actor framework & async runtime.
 - 📫 Feel free to reach me for any questions/opportunities.
   - LinkedIn: https://www.linkedin.com/in/lixin-wei/
   - Email: wlx65005@gmail.com
