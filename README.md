@@ -4,7 +4,7 @@
   - LinkedIn: https://www.linkedin.com/in/lixin-wei/
   - Email: wlx65005@gmail.com
 
-[![Lixin Wei's GitHub stats](https://github-readme-stats.vercel.app/api?theme=vue&username=lixin-wei&count_private=true&hide_rank=true&show_icons=true&theme=transparent)](https://github.com/lixin-wei)
+[![Lixin Wei's GitHub stats](https://github-readme-stats.vercel.app/api?theme=vue&username=lixin-wei&include_all_commits=true&count_private=true&hide_rank=true&show_icons=true&theme=transparent)](https://github.com/lixin-wei)
 <!--
 **lixin-wei/lixin-wei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
