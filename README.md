@@ -1,5 +1,5 @@
 ### About Me 🌱
-- 🔭 Expertise: Dataflow framework and its underlying actor framework & async runtime.
+- 🔭 Expertise: Dataflow framework, actor framework & async runtime.
 - 📫 Feel free to reach me for any questions/opportunities.
   - LinkedIn: https://www.linkedin.com/in/lixin-wei/
   - Email: wlx65005@gmail.com
