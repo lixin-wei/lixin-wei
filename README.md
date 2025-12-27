@@ -1,8 +1,8 @@
 ### About Me 🌱
 - 🔭 Expertise: Dataflow Framework, Actor Framework & Async Runtime.
 - 📫 Feel free to reach me for any questions.
-  - LinkedIn: https://www.linkedin.com/in/lixin-wei/
   - Email: wlx65005@gmail.com
+  - LinkedIn: https://www.linkedin.com/in/lixin-wei/
 <!--
 **lixin-wei/lixin-wei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
